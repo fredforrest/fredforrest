@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StenSaksPapir_DK", "forfun\StenSaksPapir_DK.csproj", "{83399637-2267-4B5C-BA9C-EACC5B4FC40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83399637-2267-4B5C-BA9C-EACC5B4FC40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83399637-2267-4B5C-BA9C-EACC5B4FC40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83399637-2267-4B5C-BA9C-EACC5B4FC40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83399637-2267-4B5C-BA9C-EACC5B4FC40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA30217-BD73-4BC9-B441-D035A2D3F885}
+	EndGlobalSection
+EndGlobal
