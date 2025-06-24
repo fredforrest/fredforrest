@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @fredforrest
-- 👀 I’m interested in software development, health tech and app development.
-- 🌱 I’m currently learning computer science as an AP graduate
-- 💞️ I’m looking to collaborate on pretty much everything! Currently rooted in .Net, but also diving into React Native as part of my 4th semester. I am open to learn what i can get my hands on.
-- 📫 How to reach me at www.linkedin.com/in/fredforrest
+# 👋 Hi, I’m @fredforrest
 
-- ⚡ Fun fact: I am educated as a physical therapist from 2018. I finished my masters in 2020 at University of Southeren Denmark, with a thesis investigating lower back pain in sedentary vs. heavy labour work forces. I recently changed my career to follow my dream of working in IT. Furthermore, I have an identical twin brother ;-)
+I'm a former physical therapist turned software developer with a passion for building digital solutions that make a real impact — especially within health tech, mobile applications and AI enablers.
+
+## 👨‍💻 About Me
+
+- 🎓 Currently studying Computer Science (AP Graduate) – finishing January 2026  
+- 💼 Background: MSc in Physical Therapy (SDU, 2020), 5+ years of clinical experience  
+- 🔁 Career shift: From healthcare to software development — driven by curiosity, creativity and impact  
+- 💻 Tech Stack: .NET, C#, Blazor, React Native (TypeScript), Firebase, GitHub Actions
+- 📱 Current focus: App development with React Native (4th semester specialization)
+- 💡 Interests: Health tech, data-driven solutions, AI for healthcare coordination and cyber security
+
+## 🤝 Collaboration & Networking
+
+I'm always open to collaboration — whether you're working on an app, a backend API, or a health-focused digital platform. I believe in rapid learning, clean code, and building solutions that matter - keep it simple.
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/fredforrest)
+
+## ⚡ Fun Facts
+
+- 🧠 Wrote my MSc thesis on low back pain in sedentary vs. physically demanding jobs  
+- 👥 I have an identical twin brother 
+- 👨‍👩‍👦‍👦 Proud dad of three boys, coding between naps and Nerf battles  
+
+---
 
 <!---
 fredforrest/fredforrest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
