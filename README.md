@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredforrest
-- 👀 I’m interested in software development, health tech, app development and IT security.
+- 👀 I’m interested in software development, health tech and app development.
 - 🌱 I’m currently learning computer science as an AP graduate
 - 💞️ I’m looking to collaborate on pretty much everything! Currently rooted in .Net, but also diving into React Native as part of my 4th semester. I am open to learn what i can get my hands on.
 - 📫 How to reach me at www.linkedin.com/in/fredforrest
